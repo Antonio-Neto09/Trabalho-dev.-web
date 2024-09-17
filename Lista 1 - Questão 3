@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 3</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>A diferença entre Server-Side e Client-Side</h1>
+
+    <h2>Server-Side</h2>
+    <p>As linguagens server-side são executadas no servidor. Elas recebem solicitações de serviço do cliente (navegador)</P>
+    <ul>
+        <li>O usuário faz uma solicitação ao servidor, acessando uma página.</li>
+        <li>O servidor gera o HTML e envia para o navegador do usuário.</li>
+    </ul>
+<h2>Client-Side</h2>
+<p>As linguagens  são executadas diretamente no navegador do usuário, isso permite interações rápidas na página.</p>
+<ul>
+    <li>O navegador do usuário interpreta o HTML, CSS e JavaScript enviados pelo servidor.</li>
+    <li>Exemplos de linguagens Client-Side incluem: JavaScript (responsável pela interação), HTML (estrutura da página), e CSS(aparência visual).</li>
+</ul>
+<p>O Client-Side melhora a experiência do usuário, deixando a interface mais interativa, enquanto o Server-Side tem o papel de processar e manipular os dados no servidor.</p>
