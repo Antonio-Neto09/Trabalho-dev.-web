@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 – Questão 5</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Países e Suas Bandeiras</h1>
+
+    <h2>América</h2>
+    <h3>Brasil</h3>
+    <a href="https://en.wikipedia.org/wiki/Brazil" target="_blank">Brasil</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Brazil.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png" alt="Bandeira do Brasil" style="width: 100px;">
+    </a>
+    <h3>Argentina</h3>
+    <a href="https://en.wikipedia.org/wiki/Argentina" target="_blank">Argentina</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Argentina.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png" alt="Bandeira da Argentina" style="width: 100px;">
+    </a>
+    <h3>Chile</h3>
+    <a href="https://en.wikipedia.org/wiki/Chile" target="_blank">Chile</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Chile.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png" alt="Bandeira do Chile" style="width: 100px;">
+    </a>
+
+    <h2>Ásia</h2>
+    <h3>China</h3>
+    <a href="https://en.wikipedia.org/wiki/China" target="_blank">China</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_China.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_China.svg/320px-Flag_of_China.svg.png" alt="Bandeira da China" style="width: 100px;">
+    </a>
+    <h3>Japão</h3>
+    <a href="https://en.wikipedia.org/wiki/Japan" target="_blank">Japão</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png" alt="Bandeira do Japão" style="width: 100px;">
+    </a>
+    <h3>Coreia do Sul</h3>
+    <a href="https://en.wikipedia.org/wiki/South_Korea" target="_blank">Coreia do Sul</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_South_Korea.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_South_Korea.svg/320px-Flag_of_South_Korea.svg.png" alt="Bandeira da Coreia do Sul" style="width: 100px;">
+    </a>
+
+    <h2>Europa</h2>
+    <h3>França</h3>
+    <a href="https://en.wikipedia.org/wiki/France" target="_blank">França</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_France.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" alt="Bandeira da França" style="width: 100px;">
+    </a>
+    <h3>Alemanha</h3>
+    <a href="https://en.wikipedia.org/wiki/Germany" target="_blank">Alemanha</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png" alt="Bandeira da Alemanha" style="width: 100px;">
+    </a>
+    <h3>Itália</h3>
+    <a href="https://en.wikipedia.org/wiki/Italy" target="_blank">Itália</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Italy.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png" alt="Bandeira da Itália" style="width: 100px;">
+    </a>
+
+    <h2>África</h2>
+    <h3>Egito</h3>
+    <a href="https://en.wikipedia.org/wiki/Egypt" target="_blank">Egito</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Egypt.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/320px-Flag_of_Egypt.svg.png" alt="Bandeira do Egito" style="width: 100px;">
+    </a>
+    <h3>África do Sul</h3>
+    <a href="https://en.wikipedia.org/wiki/South_Africa" target="_blank">África do Sul</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_South_Africa.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_South_Africa.svg/320px-Flag_of_South_Africa.svg.png" alt="Bandeira da África do Sul" style="width: 100px;">
+    </a>
+    <h3>Marrocos</h3>
+    <a href="https://en.wikipedia.org/wiki/Morocco" target="_blank">Marrocos</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Morocco.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/320px-Flag_of_Morocco.svg.png" alt="Bandeira do Marrocos" style="width: 100px;">
+    </a>
+
+    <h2>Oceania</h2>
+    <h3>Austrália</h3>
+    <a href="https://en.wikipedia.org/wiki/Australia" target="_blank">Austrália</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Australia.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/320px-Flag_of_Australia.svg.png" alt="Bandeira da Austrália" style="width: 100px;">
+    </a>
+    <h3>Nova Zelândia</h3>
+    <a href="https://en.wikipedia.org/wiki/New_Zealand" target="_blank">Nova Zelândia</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_New_Zealand.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Flag_of_New_Zealand.svg/320px-Flag_of_New_Zealand.svg.png" alt="Bandeira da Nova Zelândia" style="width: 100px;">
+    </a>
+    <h3>Fiji</h3>
+    <a href="https://en.wikipedia.org/wiki/Fiji" target="_blank">Fiji</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Fiji.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Fiji.svg/320px-Flag_of_Fiji.svg.png" alt="Bandeira de Fiji" style="width: 100px;">
+    </a>
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 – Questão 5</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Países e Suas Bandeiras</h1>
+
+    <h2>América</h2>
+    <h3>Brasil</h3>
+    <a href="https://en.wikipedia.org/wiki/Brazil" target="_blank">Brasil</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Brazil.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png" alt="Bandeira do Brasil" style="width: 100px;">
+    </a>
+    <h3>Argentina</h3>
+    <a href="https://en.wikipedia.org/wiki/Argentina" target="_blank">Argentina</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Argentina.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png" alt="Bandeira da Argentina" style="width: 100px;">
+    </a>
+    <h3>Chile</h3>
+    <a href="https://en.wikipedia.org/wiki/Chile" target="_blank">Chile</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Chile.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png" alt="Bandeira do Chile" style="width: 100px;">
+    </a>
+
+    <h2>Ásia</h2>
+    <h3>China</h3>
+    <a href="https://en.wikipedia.org/wiki/China" target="_blank">China</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_China.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_China.svg/320px-Flag_of_China.svg.png" alt="Bandeira da China" style="width: 100px;">
+    </a>
+    <h3>Japão</h3>
+    <a href="https://en.wikipedia.org/wiki/Japan" target="_blank">Japão</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png" alt="Bandeira do Japão" style="width: 100px;">
+    </a>
+    <h3>Coreia do Sul</h3>
+    <a href="https://en.wikipedia.org/wiki/South_Korea" target="_blank">Coreia do Sul</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_South_Korea.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_South_Korea.svg/320px-Flag_of_South_Korea.svg.png" alt="Bandeira da Coreia do Sul" style="width: 100px;">
+    </a>
+
+    <h2>Europa</h2>
+    <h3>França</h3>
+    <a href="https://en.wikipedia.org/wiki/France" target="_blank">França</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_France.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png" alt="Bandeira da França" style="width: 100px;">
+    </a>
+    <h3>Alemanha</h3>
+    <a href="https://en.wikipedia.org/wiki/Germany" target="_blank">Alemanha</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png" alt="Bandeira da Alemanha" style="width: 100px;">
+    </a>
+    <h3>Itália</h3>
+    <a href="https://en.wikipedia.org/wiki/Italy" target="_blank">Itália</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Italy.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png" alt="Bandeira da Itália" style="width: 100px;">
+    </a>
+
+    <h2>África</h2>
+    <h3>Egito</h3>
+    <a href="https://en.wikipedia.org/wiki/Egypt" target="_blank">Egito</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Egypt.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/320px-Flag_of_Egypt.svg.png" alt="Bandeira do Egito" style="width: 100px;">
+    </a>
+    <h3>África do Sul</h3>
+    <a href="https://en.wikipedia.org/wiki/South_Africa" target="_blank">África do Sul</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_South_Africa.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_South_Africa.svg/320px-Flag_of_South_Africa.svg.png" alt="Bandeira da África do Sul" style="width: 100px;">
+    </a>
+    <h3>Marrocos</h3>
+    <a href="https://en.wikipedia.org/wiki/Morocco" target="_blank">Marrocos</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Morocco.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/320px-Flag_of_Morocco.svg.png" alt="Bandeira do Marrocos" style="width: 100px;">
+    </a>
+
+    <h2>Oceania</h2>
+    <h3>Austrália</h3>
+    <a href="https://en.wikipedia.org/wiki/Australia" target="_blank">Austrália</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Australia.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/320px-Flag_of_Australia.svg.png" alt="Bandeira da Austrália" style="width: 100px;">
+    </a>
+    <h3>Nova Zelândia</h3>
+    <a href="https://en.wikipedia.org/wiki/New_Zealand" target="_blank">Nova Zelândia</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_New_Zealand.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Flag_of_New_Zealand.svg/320px-Flag_of_New_Zealand.svg.png" alt="Bandeira da Nova Zelândia" style="width: 100px;">
+    </a>
+    <h3>Fiji</h3>
+    <a href="https://en.wikipedia.org/wiki/Fiji" target="_blank">Fiji</a>
+    <a href="https://en.wikipedia.org/wiki/File:Flag_of_Fiji.svg" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Fiji.svg/320px-Flag_of_Fiji.svg.png" alt="Bandeira de Fiji" style="width: 100px;">
+    </a>
+</body>
+</html>
