@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 4</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+   
+   <h1>O que significa semântica?</h1>
+   
+    <p>Semântica, no HTML5, significa usar elementos de forma que o conteúdo tenha um significado claro, tanto para os desenvolvedores quanto para os navegadores.</p>
+
+    <h2>Por que isso é importante?</h2>
+    <p>Usar semântica no HTML5 é importante porque:</p>
+    <ul>
+        <li>Facilita a leitura do código por outros desenvolvedores.</li>
+        <li>Ajuda os navegadores e motores de busca a entenderem o conteúdo.</li>
+        <li>Melhora a acessibilidade para leitores de tela.</li>
+    </ul>
+</body>
+</html>
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color:#FFFFFF ;
+    margin: 20px;
+    color: #333;
+}
+
+h1 {
+    color: #00ffff;
+}
+
+h2 {
+    color: #black;
+    margin-top: 20px;
+}
+
+p, ul {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
