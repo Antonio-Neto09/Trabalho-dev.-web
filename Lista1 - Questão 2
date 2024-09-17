@@ -1,1 +1,15 @@
-
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 2</title>
+    <meta name="description" content="Exercício prático de HTML e CSS">
+    <meta name="author" content="Antonio Honorato Da silva Neto">
+    <meta name="keywords" content="HTML, CSS, aprendizado de programação, Replit">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <p>O Replit é uma plataforma online incrível para aprender programação! Com ele, você pode criar projetos de forma rápida e fácil, além de colaborar com outros desenvolvedores. Seja você iniciante ou experiente, o Replit oferece um ambiente perfeito para dar seus primeiros passos no mundo da programação ou aprimorar suas habilidades.</p>
+</body>
+</html>
